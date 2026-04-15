@@ -1,2 +1,2 @@
 # introduction_st
-learining purpose
+learning purpose

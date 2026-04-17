@@ -1,2 +1,4 @@
-hi
-this is suniel
+this is
+file 
+for merging
+conflicts

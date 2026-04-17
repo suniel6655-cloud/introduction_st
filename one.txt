@@ -1,0 +1,6 @@
+hi
+this
+sample file
+to 
+check 
+merge conflicts

@@ -1,0 +1,5 @@
+hi
+this is
+file 
+for merging
+conflicts
